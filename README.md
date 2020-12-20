@@ -12,6 +12,8 @@ under Linux:
 ```
 Please ensure the locale of two files are the same.
 
+Also noted that this program are used for wide char articles
+
 ### Compile
 ```
 g++ ibs-article.cpp -o run
